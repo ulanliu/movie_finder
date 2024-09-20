@@ -10,6 +10,7 @@ pandas = "*"
 streamlit = "*"
 huggingface-hub = "*"
 datasets = "*"
+elasticsearch = "*"
 
 [dev-packages]
 tqdm = "*"
